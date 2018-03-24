@@ -1,0 +1,86 @@
+h1 {
+  margin-left: 10px;
+  color: white;
+  font-size: 40px;
+}
+h4 {
+  color: rgb(56, 112, 41);
+  margin-left: 10px;
+  font-size: 18px;
+}
+.style-top {
+  font-family: Dancing Script, cursive;
+  background-color: rgb(128, 189, 74);
+  padding: 20px;
+  box-shadow: 1px 2px 5px 2px;
+}
+.navigate {
+  background: rgb(67, 131, 78);
+  overflow: hidden;
+  padding: 5px 0 5px;
+  box-shadow: 1px 2px 5px 2px;
+}
+.navigate a {
+  text-decoration: none;
+  color: white;
+  margin-right: 10%;
+  padding-left: 1em;
+  font-size: 1.2em;
+}
+.navigate a:hover {
+  font-size: 130%;
+}
+body {
+  background-color: rgb(208, 248, 215);
+  font-family: cursive;
+  padding: 5px;
+}
+#text-examples {
+  padding: 10px 10px 0 10px;
+  line-height: 35px;
+  margin-left: 10px;
+}
+ul li a {
+  line-height: 35px;
+  text-decoration: none;
+  color: black;
+}
+ul li a:hover {
+  font-size: 120%;
+}
+.examples {
+  width: 30%;
+  padding: 10px;
+}
+.examples:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+.header {
+  color: white;
+  background-color: rgb(67, 131, 78);
+  margin-left: 2px;
+  padding: 4px 20px;
+  box-shadow: 1px 2px 5px 2px rgb(0, 0, 2);
+}
+.text {
+  margin-left: 30px;
+  line-height: 35px;
+}
+table {
+  border-collapse: collapse;
+  width: 80%;
+  text-align: left;
+  padding: 8px;
+  margin-left: 20px;
+}
+th {
+  background-color: rgb(129, 197, 141);
+  color: white;
+}
+tr:nth-child(even) {
+  background-color: white;
+}
+tr:hover {
+  background-color: rgb(198, 209, 200);
+}
