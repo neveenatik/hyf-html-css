@@ -65,6 +65,9 @@ video {
 a img{
   width: 25px;
 }
+h6{
+  padding-top: 0;
+}
 h2, h3{
   padding: 10px;
   background-color: rgb(121, 121, 128);
