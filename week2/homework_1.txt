@@ -1,0 +1,134 @@
+    1  git config --global user.name "Neveen Atik"
+    2  git config --global user.name
+    3  pwd
+    4  cd hyfcli15
+    5  pwd
+    6  --hidden
+    7  --ls
+    8  ls -- help
+    9  ls --help
+   10  ls --help | less
+   11  cd
+   12  pwd
+   13  mkdir--help|less
+   14  mkdir --help | less
+   15  directory --help
+   16  touch --help | less
+   17  mkdir these\folder\are\for\fun
+   18  pwd
+   19  ls
+   20  pwd
+   21  cd hyfcli15/
+   22  mkdir CLI-HW1
+   23  touch homework.txt
+   24  ls
+   25  cd
+   26  mkdir CLI-HW1
+   27  touch homework.txt
+   28  ls
+   29  cd CLI-HW1/
+   30  ls
+   31  touch homework.txt
+   32  ls
+   33  clear
+   34  pwd
+   35  vd
+   36  cd
+   37  pwd
+   38  mkdir hyf hw1
+   39  cd hyf hw1
+   40  cd hyf/
+   41  ls
+   42  clear
+   43  pwd
+   44  cd
+   45  mkdir hyf-hw1
+   46  cd hyf-hw1/
+   47  touch blank
+   48  echo "Hello" > greetings.txt
+   49  copy --help
+   50  cfile
+   51  --help
+   52  copy --help
+   53  move --help
+   54  touch --help
+   55  -c --help
+   56  touch c --help
+   57  touch-c --help
+   58  touch -c --help
+   59  touch c --help
+   60  c --help
+   61  ..cd
+   62  ../cd
+   63  .cd
+   64  .. --help
+   65  cd:
+   66  cd..
+   67  cd.
+   68  .cd
+   69  :cd
+   70  cd --help
+   71  ..
+   72  l..
+   73  clear
+   74  cd.
+   75  cd .
+   76  cd ..
+   77  > --help
+   78  < --help
+   79  touch << __help
+   80  ls
+   81  cd hy
+   82  cd hyf-hw1/
+   83  ls
+   84  touch < greetings.txt
+   85  x --help
+   86  cat --help
+   87  cp --help
+   88  clear
+   89  ls
+   90  cat greetings.txt
+   91  echo -e ""\nHello\n" >> greetings.txt
+   92  cat greetings.txt
+   93  echo -e "\nHello" >> greetings.txt
+   94  cat greetings.txt
+   95  echo -e "\nHello\nHello\nHello" >> greetings.txt
+   96  cat greetings.txt
+   97  echo -e "Hello\nHello\nHello\nHello\nHello" > greetings.txt
+   98  cat greetings.txt
+   99  cat --help
+  100  cat greetings.txt >> 1.txt
+  101  ls
+  102  cat 1.txt
+  103  cat 1.txt >> 2.txt >> 3.txt >> 4.txt >> 5.txt
+  104  ls
+  105  echo "cat" > pets.txt
+  106  cat pets.txt >> commands.txt
+  107  echo "ls" >> commands.txt << "pwd"
+  108  cat commands.txt
+  109  echo "ls
+  110  echo "ls" >> commands.txt
+  111  echo "pwd" >> commands.txt
+  112  cat commands.txt
+  113  unique strings --help
+  114  sting --help
+  115  sort -help
+  116  sort --help
+  117  uniq --help
+  118  sort -u --help
+  119  sort --pets.txt-commands.txt lovelycommands.txt
+  120  sort -u --pets.txt-commands.txt > lovelycommands.txt
+  121  uniq --pets.txt-commands.txt >lovelycommands.txt
+  122  rename --help
+  123  rn --help
+  124  wc pets.txt commands.txt
+  125  sort - pets.txt commands.txt > lovelycommands.txt
+  126  ls
+  127  cat locelycommands.txt
+  128  rm lovelycommands.txt 
+  129  ls
+  130  sort - uniq pets.txt commands.txt > lovelycommands.txt
+  131  sort pets.txt commands.txt > lovelycommands.txt
+  132  ls
+  133  cat lovelycommands.txt
+  134  history > homework_1.txt
