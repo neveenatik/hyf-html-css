@@ -68,7 +68,6 @@ li{
   background-color: rgba(255, 255, 255, .5);
   background: linear-gradient(to top, rgb(255, 255, 255) 75%,transparent);
   box-shadow: 0 0 10px rgba(70, 68, 68, 0.5);
-  text-align: center;
   text-shadow: 2px 0 10px rgba(15, 15, 15, 0.5);
   color: rgb(255, 255, 255);
 }
@@ -83,8 +82,8 @@ h3{
 }
 img{
   width: 100%;
-  float: left;
-  background-color: white;
+  float: right;
+  background-color: rgb(255, 255, 255);
   display: block;
   margin-left: auto;
   margin-right: 0.5rem;
