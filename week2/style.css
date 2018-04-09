@@ -169,5 +169,5 @@ li:hover {
 }
 li:first-child:hover {
   color: rgb(218, 87, 87);
-  transform: scale(1.2);
+  transform: scale(1.1);
 }
