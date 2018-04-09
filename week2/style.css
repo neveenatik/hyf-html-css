@@ -108,7 +108,7 @@ li:nth-child(n+2){
 
 /* float clearfix */
 
-#grid-floats::fter {
+#grid-floats::after {
   content: "";
   display: block;
   clear: both;
