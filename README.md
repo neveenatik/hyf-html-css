@@ -7,3 +7,4 @@ homework setup repository
 - https://neveenatik.github.io/hyf-html-css/week2/
 - https://github.com/neveenatik/hyf-html-css/blob/master/CommandLine/these/folders/are/just/for/fun/homework_1
 - https://github.com/neveenatik/hyf-html-css/blob/master/CommandLine/homework2.sh
+- https://neveenatik.github.io/hyf-html-css/week3/
