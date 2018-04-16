@@ -30,7 +30,6 @@ a{
   padding: 0 1.25rem;
 }
 .toggle{
-  display: block;
   position: relative;
   top: 0;
   user-select: none;
@@ -138,6 +137,9 @@ input[type=checkbox]:checked ~ ul {
   font-size: 1.25rem;
   font-weight: 80;
   padding-top: 1rem;
+}
+#home a {
+  color: #ffffff;
 }
 input[type=text] {
   padding: 1rem 0.625rem;
@@ -358,6 +360,7 @@ footer ul li {
     display: flex;
     flex-flow: row wrap;
     justify-content: flex-end;
+    align-content: flex-end;
     z-index: 0;
     transform: none;
     transition: none;
@@ -370,7 +373,6 @@ footer ul li {
   #home {
     float:left;
     position: relative;
-    top: 2.5rem;
   }
   #home a {
     color: #ffffff;
@@ -454,5 +456,8 @@ footer ul li {
   .languages{
     padding-left: calc(1rem + 10vw);
     padding-right: calc(1rem + 10vw);
+  }
+  .drop-menu {
+    width: calc(200% / 3);
   }
 }
